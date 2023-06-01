@@ -3,7 +3,7 @@
 ## Mario Nikolov 206019
 
 2.
-![Untitled Diagram](https://github.com/nikolovmario/SI_2023_lab2_206019/assets/86928940/c5958c1c-1a9a-4d68-9b77-e18f4db77b7a)
+![Untitled Diagram](https://github.com/nikolovmario/SI_2023_lab2_206019/assets/86928940/268dec19-2bde-44af-8afe-741540f4d53e)
 #### 3.
 #### Цикломатската комплексност се пресметува со формулата:
 ##### број редови - број јазли + 2 = 37 - 28 + 2 = 11
